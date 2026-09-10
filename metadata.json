@@ -1,0 +1,6 @@
+{
+  "name": "XCLOUD.NET - Hotspot Billing & ISP Automation Platform",
+  "description": "Commercial Hotspot Billing, ISP Automation, MikroTik RouterOS v7 Cloud Management, FreeRADIUS, and Mobile Money Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
